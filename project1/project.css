@@ -1,0 +1,26 @@
+body .rectangle {
+    width: 200px;
+    height: 80px;
+    background-color: rgb(156, 17, 12);
+    border: 3px solid #000;
+    margin-inline: auto;
+}
+
+body .square {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(6, 6, 83);
+    border: 3px solid #000;
+    margin-inline: auto;
+    margin-top: 2rem;
+}
+
+body .circle {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(174, 204, 3);
+    border-radius: 50%;
+    border: 3px solid #000;
+    margin-inline: auto;
+    margin-top: 2rem;
+}
